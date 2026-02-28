@@ -100,17 +100,17 @@ pip install -r requirements.txt
 
 Open Recommendation System.ipynb in Jupyter Notebook and run all cells sequentially.
 
-🎯 Example Recommendation
+### 🎯 Example Recommendation
 Input Movie: Avatar
 
-Recommended Movies:
+### Recommended Movies:
 - John Carter
 - Guardians of the Galaxy
 - Star Trek
 - Aliens
 🚀 Key Features
 
-- Content-based movie recommendations
+### Content-based movie recommendations
 
 - Efficient similarity computation
 

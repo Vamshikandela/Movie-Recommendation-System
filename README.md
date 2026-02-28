@@ -91,13 +91,12 @@ Cosine Similarity is used to measure similarity between movie vectors
 
 Higher cosine value → More similar movies
 
-▶️ How to Run the Project
-1️⃣ Clone the Repository
-git clone https://github.com/your-username/movie-recommendation-system.git
-cd movie-recommendation-system
-2️⃣ Install Required Libraries
+### ▶️ How to Run the Project
+ 
+
+### 1️⃣ Install Required Libraries
 pip install -r requirements.txt
-3️⃣ Run the Notebook
+### 2️⃣ Run the Notebook
 
 Open Recommendation System.ipynb in Jupyter Notebook and run all cells sequentially.
 

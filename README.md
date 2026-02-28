@@ -110,23 +110,15 @@ Recommended Movies:
 - Aliens
 🚀 Key Features
 
-Content-based movie recommendations
+- Content-based movie recommendations
 
-Efficient similarity computation
+- Efficient similarity computation
 
-Clean and modular code
+- Clean and modular code
 
-Easy to extend to other domains (books, products, courses)
+- Easy to extend to other domains (books, products, courses)
 
-# 🔮 Future Enhancements
 
-Add a web interface using Streamlit or Flask
-
-Include user-based collaborative filtering
-
-Improve recommendations using TF-IDF or word embeddings
-
-Deploy as a web application
 
 # 👨‍💻 Author
 
